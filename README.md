@@ -1,2 +1,2 @@
 # gamebook-A3
-Repositorio Reservado para o trabalho da A3 da Faculdade São Paula.
+Repositorio Reservado para o trabalho da A3 da Faculdade São Judas Tadeu.
